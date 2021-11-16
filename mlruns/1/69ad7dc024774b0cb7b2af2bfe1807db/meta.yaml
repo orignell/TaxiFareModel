@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oscarrignell/code/orignell/TaxiFareModel/mlruns/1/69ad7dc024774b0cb7b2af2bfe1807db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 69ad7dc024774b0cb7b2af2bfe1807db
+run_uuid: 69ad7dc024774b0cb7b2af2bfe1807db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637069664087
+status: 1
+tags: []
+user_id: unknown
